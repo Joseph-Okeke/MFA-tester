@@ -1,0 +1,21 @@
+{
+  "login_url": "http://mfa.thm/labs/third/",
+  "otp_url": "http://mfa.thm/labs/third/mfa",
+
+  "username_field": "email",
+  "password_field": "password",
+
+  "otp_fields": ["code-1", "code-2", "code-3", "code-4"],
+
+  "username": "thm@mail.thm",
+  "password": "test123",
+
+  "otp_start": 0,
+  "otp_end": 9999,
+
+  "success_url_contains": "/labs/third/dashboard",
+  "failure_text": "Sign in to your account",
+
+  "delay": 1.0,
+  "max_attempts": 100
+}
