@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OTP Security Tester
 
 A Python-based tool for testing OTP/MFA verification workflows in authorized environments such as:
@@ -42,3 +43,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/Joseph-Okeke/OTP_Bruteforcing.git
 ```
+=======
+# MFA-tester
+>>>>>>> a0c6c8acf5b898d142d72e5dd62a27a3149826dd
